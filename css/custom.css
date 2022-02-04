@@ -1,0 +1,56 @@
+.hwtEBz {
+
+    display: none;
+}
+
+
+.img-loader {
+
+    position: relative;
+    animation-name: example;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes example {
+    0%   { left:0px; top:0px;}
+    25%  { left:0px; top:30px;}
+    50%  { left:0px; top:0px;}
+    75%  { left:0px; top:30px;}
+    100% { left:0px; top:0px;}
+  }
+
+  .pItXJ{
+    color: #FFF !important;
+    border: 2px solid #FFF !important;
+  }
+
+  .OKjYn {
+    color: #FFF !important;
+  }
+
+  .cStdqW {
+
+    fill: rgb(255 255 255) !important;
+  }
+
+  .cUzEBz {
+    fill: #FFF !important;
+
+  }
+  .jUUfts {
+
+    background-color: #010854 !important;
+
+  }
+
+  .lhLcFT:hover {
+    background: rgb(1 8 84) !important;
+}
+
+.kDQfVv:hover:not(:disabled) {
+  background-color: rgb(1 8 84) !important;
+}
+.iNlLRV:hover:not(:disabled) {
+  background-color: rgb(1 8 84) !important;
+}
